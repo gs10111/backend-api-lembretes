@@ -1,0 +1,138 @@
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Snappier.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Predify\source\repos\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\Snappier.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+C:\Users\Predify\Desktop\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\appsettings.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.exe
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.deps.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.runtimeconfig.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\WebApplication4.pdb
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\DnsClient.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\Snappier.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.AssemblyReference.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfoInputs.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.AssemblyInfo.cs
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.WebApplication4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.build.WebApplication4.props
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication4.props
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WebApplication4.props
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\scopedcss\bundle\WebApplication4.styles.css
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.csproj.CopyComplete
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\refint\WebApplication4.dll
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.pdb
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\WebApplication4.genruntimeconfig.cache
+C:\Users\gsilv\OneDrive\Área de Trabalho\WebApplication4\WebApplication4\obj\Debug\net7.0\ref\WebApplication4.dll
